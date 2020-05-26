@@ -1,0 +1,156 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+	border: #000000;
+}
+
+h1 {
+    font-family: 'Balsamiq Sans', cursive;	
+	color: #000000;
+}
+
+body {
+	padding:0;
+	
+    font-family: 'Balsamiq Sans', cursive;    
+    font-size: 16px;
+}
+
+p {
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	position: center;
+}
+
+.container {
+	border: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-color: black;
+}
+
+section {
+	
+	background-color: grey;
+	width: 100%;
+	height: auto;
+    font-family: 'Balsamiq Sans', cursive;	
+    color: black;
+	position: relative;
+	overflow-x: 40px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+
+
+#chicken {
+	border: 10px solid black;
+	text-align: center;
+	width: 30%;
+    font-family: 'Balsamiq Sans', cursive;	
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color:grey;
+}
+
+#beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+    font-family: 'Balsamiq Sans', cursive;	
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: black;
+}
+
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: grey;
+	color:black;
+	padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 40px;
+  border-color: solid black;
+  color: black;
+}
+
+#header-nav {
+  border-color: black;
+  border-width: 5px;
+  background-color:grey;
+  color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: black;
+  border-color: black;
+  border-width: 2px;
+}
+
+.nav-brand {
+  color: black;
+  font-size: 1.5em;
+  border:10px;
+  border-color: black;
+}
+
+#nav-list {
+  color: black;
+}
+
+hr {
+  border-color: black;
+  border-width: 2px;
+}
+
+.item {
+  color: black;
+  font-size: 1.2em;
+}
+
